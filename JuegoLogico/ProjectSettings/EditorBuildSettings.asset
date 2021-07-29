@@ -6,6 +6,21 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/JuegoLogico.unity
+    path: Assets/Scenes/JLogico.unity
     guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Bosque.unity
+    guid: 66c8809eafb9c2d48b877212945660cc
+  - enabled: 1
+    path: Assets/Scenes/Choza.unity
+    guid: f133d368f6c0cce4bb787679b672004c
+  - enabled: 1
+    path: Assets/Scenes/Masmorra.unity
+    guid: da6805ef793891647889fd4e08f8b6b2
+  - enabled: 1
+    path: Assets/Scenes/Options.unity
+    guid: 4754d17edaa36a74797f2d6a42a3e34b
+  - enabled: 1
+    path: Assets/Scenes/Niveles.unity
+    guid: 821f6dbe600f5ed419eaa1c8d498aabf
   m_configObjects: {}
