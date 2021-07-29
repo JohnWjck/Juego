@@ -18,6 +18,9 @@ EditorBuildSettings:
     path: Assets/Scenes/Masmorra.unity
     guid: da6805ef793891647889fd4e08f8b6b2
   - enabled: 1
+    path: Assets/Scenes/Leeme.unity
+    guid: e29f6570d53ffbb45bb26316aab53f83
+  - enabled: 1
     path: Assets/Scenes/Options.unity
     guid: 4754d17edaa36a74797f2d6a42a3e34b
   - enabled: 1
