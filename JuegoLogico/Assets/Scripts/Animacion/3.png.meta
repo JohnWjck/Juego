@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 74475eceb6588cf49a6e368416f26934
+guid: b3069f126f7a4f646bad6435973281bf
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6523797469912700912
-    second: Mago4
+      213: -1692840308486707090
+    second: 3
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -94,13 +94,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mago4
+      name: 3
       rect:
         serializedVersion: 2
-        x: 34
-        y: 16
-        width: 309
-        height: 329
+        x: 26
+        y: 19
+        width: 378
+        height: 330
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -108,8 +108,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 018e24304c0d675a0800000000000000
-      internalID: -6523797469912700912
+      spriteID: e68ef2f55b2d188e0800000000000000
+      internalID: -1692840308486707090
       vertices: []
       indices: 
       edges: []

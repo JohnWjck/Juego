@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: aa4137a8d951ed048a96d6afff2c5875
+guid: 93f232533a11d50449de03c0e6ef2c4f
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -2642795341809193036
-    second: 2_WALK_000_0
+      213: -1134381976214350835
+    second: 4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -94,13 +94,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: 2_WALK_000_0
+      name: 4
       rect:
         serializedVersion: 2
-        x: 17
-        y: 17
-        width: 302
-        height: 326
+        x: 26
+        y: 19
+        width: 378
+        height: 330
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -108,8 +108,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 4bfe76583a7e25bd0800000000000000
-      internalID: -2642795341809193036
+      spriteID: d0453245a9dd140f0800000000000000
+      internalID: -1134381976214350835
       vertices: []
       indices: 
       edges: []

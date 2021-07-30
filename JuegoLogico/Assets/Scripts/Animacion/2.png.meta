@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 017be06add55d324b9e9435289518e7a
+guid: 68ad5337bfda3224a824e683636df6d4
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2158078190645906775
-    second: Mago2_0
+      213: 110763533900409784
+    second: 2
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -94,22 +94,22 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Mago2_0
+      name: 2
       rect:
         serializedVersion: 2
-        x: 34
-        y: 17
-        width: 305
-        height: 326
+        x: 19
+        y: 16
+        width: 363
+        height: 347
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 75d87fe2ea803fd10800000000000000
-      internalID: 2158078190645906775
+      spriteID: 8bb6334e8d2898100800000000000000
+      internalID: 110763533900409784
       vertices: []
       indices: 
       edges: []
