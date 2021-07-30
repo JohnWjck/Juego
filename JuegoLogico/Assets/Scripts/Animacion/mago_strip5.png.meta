@@ -1,28 +1,22 @@
 fileFormatVersion: 2
-guid: 75c85716790a2f143b21c76071515bfd
+guid: 2d95f5c6368dbe3468caac9db1034f62
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 5902855450250165542
-    second: weapon_bullet_0
+      213: 291739064955360061
+    second: mago
   - first:
-      213: -3156122162549437794
-    second: weapon_bullet_1
+      213: -7573523530211066602
+    second: mago_strip5_1
   - first:
-      213: -7500341700066412395
-    second: weapon_bullet_2
+      213: 6354162433973620246
+    second: mago_strip5_2
   - first:
-      213: -7233278182342934215
-    second: weapon_bullet_3
+      213: 1124662568289128121
+    second: mago_strip5_3
   - first:
-      213: 4531275813216471585
-    second: weapon_bullet_4
-  - first:
-      213: 1499340714466408896
-    second: weapon_bullet_5
-  - first:
-      213: -1074786334143915823
-    second: weapon_bullet_6
+      213: 5231974032142603705
+    second: mago_strip5_4
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -53,7 +47,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 0
+    filterMode: 1
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -112,148 +106,106 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: weapon_bullet_0
+      name: mago
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 8
-        height: 8
+        x: 9
+        y: 7
+        width: 349
+        height: 340
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 62db3a0e1c72be150800000000000000
-      internalID: 5902855450250165542
+      spriteID: d33d4c542277c0400800000000000000
+      internalID: 291739064955360061
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: weapon_bullet_1
+      name: mago_strip5_1
       rect:
         serializedVersion: 2
-        x: 8
-        y: 0
-        width: 8
-        height: 8
+        x: 437
+        y: 7
+        width: 364
+        height: 335
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: e9ac0817d933334d0800000000000000
-      internalID: -3156122162549437794
+      spriteID: 61df4bbb97075e690800000000000000
+      internalID: -7573523530211066602
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: weapon_bullet_2
+      name: mago_strip5_2
       rect:
         serializedVersion: 2
-        x: 16
-        y: 0
-        width: 8
-        height: 8
+        x: 863
+        y: 9
+        width: 379
+        height: 335
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 598fd7956fe69e790800000000000000
-      internalID: -7500341700066412395
+      spriteID: 61e012261158e2850800000000000000
+      internalID: 6354162433973620246
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: weapon_bullet_3
+      name: mago_strip5_3
       rect:
         serializedVersion: 2
-        x: 24
-        y: 0
-        width: 8
-        height: 8
+        x: 1288
+        y: 9
+        width: 380
+        height: 339
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 931cdd311db3e9b90800000000000000
-      internalID: -7233278182342934215
+      spriteID: 9be4d0ba5aa9b9f00800000000000000
+      internalID: 1124662568289128121
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: weapon_bullet_4
+      name: mago_strip5_4
       rect:
         serializedVersion: 2
-        x: 32
-        y: 0
-        width: 8
-        height: 8
+        x: 1694
+        y: 13
+        width: 365
+        height: 331
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 12a461a285352ee30800000000000000
-      internalID: 4531275813216471585
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: weapon_bullet_5
-      rect:
-        serializedVersion: 2
-        x: 40
-        y: 0
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 0c9fc0b9f6abec410800000000000000
-      internalID: 1499340714466408896
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: weapon_bullet_6
-      rect:
-        serializedVersion: 2
-        x: 48
-        y: 0
-        width: 8
-        height: 8
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 1d858e706879511f0800000000000000
-      internalID: -1074786334143915823
+      spriteID: 9b59deb79a4bb9840800000000000000
+      internalID: 5231974032142603705
       vertices: []
       indices: 
       edges: []
