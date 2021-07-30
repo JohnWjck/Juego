@@ -1,0 +1,5 @@
+La ventana de dialogo tiene una X por si el jugador quiere cerrarla
+
+
+Pero en caso de que la quiera volver a desplegar puede presionar el Icono del Cartel (BTN_Mensaje_Inicial) para invocar
+nuevamente la ventana de dialogo
