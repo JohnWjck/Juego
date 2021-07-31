@@ -2,6 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
+
 public class v1 : MonoBehaviour
 {
     public GameObject mensaje;
@@ -16,15 +17,26 @@ public class v1 : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        
+
     }
 
-    void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.gameObject.tag == "Mensaje")
+        if (other.gameObject.CompareTag("Player"))
         {
             mensaje.SetActive(true);
             botonQuitar.SetActive(true);
         }
     }
+
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Player"))
+        {
+            mensaje.SetActive(false);
+            botonQuitar.SetActive(false);
+        }
+    }
+
 }
+    
