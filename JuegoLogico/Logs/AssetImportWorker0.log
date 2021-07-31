@@ -15,11 +15,11 @@ C:/Users/neo_s/Desktop/Proyectos/Juego/JuegoLogico
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-53868
+50126
 Successfully changed project path to: C:/Users/neo_s/Desktop/Proyectos/Juego/JuegoLogico
 C:/Users/neo_s/Desktop/Proyectos/Juego/JuegoLogico
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 64.07 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 81.59 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2020.3.8f1 (507919d4fff5)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Resources/UnitySubsystems
@@ -35,574 +35,51 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56060
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56040
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.8f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.002595 seconds.
+Registered in 0.002712 seconds.
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 86.56 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 59.55 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.895 seconds
+- Completed reload, in  1.650 seconds
 Platform modules already initialized, skipping
 Registering precompiled user dll's ...
-Registered in 0.008336 seconds.
+Registered in 0.008614 seconds.
 Begin MonoManager ReloadAssembly
 Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 59.57 ms, found 3 plugins.
+Refreshing native plugins compatible for Editor in 60.59 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Mono: successfully reloaded assembly
-- Completed reload, in  1.437 seconds
+- Completed reload, in  1.421 seconds
 Platform modules already initialized, skipping
 ========================================================================
 Worker process is ready to serve import requests
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
-Refreshing native plugins compatible for Editor in 0.63 ms, found 3 plugins.
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.10 seconds
+Refreshing native plugins compatible for Editor in 0.62 ms, found 3 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1834 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.1 MB.
-System memory in use after: 98.0 MB.
+Unloading 1837 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 98.2 MB.
+System memory in use after: 69.4 MB.
 
-Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 2317.
-Total: 2.459400 ms (FindLiveObjects: 0.209200 ms CreateObjectMapping: 0.084700 ms MarkObjects: 1.985100 ms  DeleteObjects: 0.178400 ms)
-
-========================================================================
-Received Import Request.
-  path: Assets/Scripts/Animacion/prueva.anim
-  artifactKey: Guid(ffc7032f48a32c3499fc33915775ff58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/prueva.anim using Guid(ffc7032f48a32c3499fc33915775ff58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3ae087c4721f5b4c328cfb2abd6bad7') in 0.046388 seconds
-  Import took 0.070889 seconds .
+Unloading 41 unused Assets to reduce memory usage. Loaded Objects now: 2320.
+Total: 3.502700 ms (FindLiveObjects: 0.204700 ms CreateObjectMapping: 0.090300 ms MarkObjects: 3.027700 ms  DeleteObjects: 0.178300 ms)
 
 ========================================================================
 Received Import Request.
-  Time since last request: 18.880933 seconds.
-  path: Assets/Scripts/Animacion/MagoController.controller
-  artifactKey: Guid(8dc8bbda059ad074fb2c6bb4d041bd09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/MagoController.controller using Guid(8dc8bbda059ad074fb2c6bb4d041bd09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aad69858a38463ebd992f1497ca3a98f') in 0.035693 seconds
-  Import took 0.040560 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.008066 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.73 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.878 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.34 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1829 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.1 MB.
-System memory in use after: 98.0 MB.
-
-Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2321.
-Total: 3.766300 ms (FindLiveObjects: 0.277400 ms CreateObjectMapping: 0.103300 ms MarkObjects: 3.217100 ms  DeleteObjects: 0.166100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.007963 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.25 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.599 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.91 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1829 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.1 MB.
-System memory in use after: 98.1 MB.
-
-Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2325.
-Total: 3.423100 ms (FindLiveObjects: 0.411900 ms CreateObjectMapping: 0.133400 ms MarkObjects: 2.679700 ms  DeleteObjects: 0.196200 ms)
+  path: Assets/Scenes/Bosque.unity
+  artifactKey: Guid(66c8809eafb9c2d48b877212945660cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Bosque.unity using Guid(66c8809eafb9c2d48b877212945660cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd808a1aeb686bc5d8880d233452dfdc') in 0.020047 seconds
+  Import took 0.025056 seconds .
 
 ========================================================================
 Received Import Request.
-  Time since last request: 102.173329 seconds.
-  path: Assets/Scripts/Animacion/prueva.anim
-  artifactKey: Guid(ffc7032f48a32c3499fc33915775ff58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/prueva.anim using Guid(ffc7032f48a32c3499fc33915775ff58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd229199a06174d8fbf99bc2f1a661038') in 0.026485 seconds
-  Import took 0.056237 seconds .
+  Time since last request: 25.844875 seconds.
+  path: Assets/Scenes/JLogico.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/JLogico.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '179972ae0747829dc1e41429c7f87dfe') in 0.020479 seconds
+  Import took 0.028669 seconds .
 
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.008241 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.77 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.867 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.06 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1829 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 98.1 MB.
-System memory in use after: 98.1 MB.
-
-Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2329.
-Total: 3.004800 ms (FindLiveObjects: 0.268000 ms CreateObjectMapping: 0.104700 ms MarkObjects: 2.422500 ms  DeleteObjects: 0.207900 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 792.007361 seconds.
-  path: Assets/Scripts/Animacion/prueva.anim
-  artifactKey: Guid(ffc7032f48a32c3499fc33915775ff58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/prueva.anim using Guid(ffc7032f48a32c3499fc33915775ff58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd52cd4af42c122375cf7cb5753f5105') in 0.079972 seconds
-  Import took 0.097372 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.521760 seconds.
-  path: Assets/Scripts/Animacion/MagoRun.anim
-  artifactKey: Guid(7d5e1bc443474524b8a0d2c2b53d65f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/MagoRun.anim using Guid(7d5e1bc443474524b8a0d2c2b53d65f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83b549dea641acca56c56ddba8d59520') in 0.017945 seconds
-  Import took 0.039276 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001180 seconds.
-  path: Assets/Scripts/Animacion/MagoRun.anim
-  artifactKey: Guid(7d5e1bc443474524b8a0d2c2b53d65f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/MagoRun.anim using Guid(7d5e1bc443474524b8a0d2c2b53d65f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '83b549dea641acca56c56ddba8d59520') in 0.021354 seconds
-  Import took 0.028374 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 8.608333 seconds.
-  path: Assets/Scripts/Animacion/GameObject.controller
-  artifactKey: Guid(16556ff754d62e34ea7498950952a522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/GameObject.controller using Guid(16556ff754d62e34ea7498950952a522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '21feeb5685f49e78f014bfe3890827ea') in 0.017508 seconds
-  Import took 0.047677 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.360080 seconds.
-  path: Assets/Scripts/Animacion/GameObject 1.controller
-  artifactKey: Guid(6b3d23dfdab83e2458403fcbeeacb8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/GameObject 1.controller using Guid(6b3d23dfdab83e2458403fcbeeacb8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8611808387fe1be934762635b202a1e5') in 0.017465 seconds
-  Import took 0.029416 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001994 seconds.
-  path: Assets/Scripts/Animacion/GameObject 1.controller
-  artifactKey: Guid(6b3d23dfdab83e2458403fcbeeacb8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/GameObject 1.controller using Guid(6b3d23dfdab83e2458403fcbeeacb8f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8611808387fe1be934762635b202a1e5') in 0.012997 seconds
-  Import took 0.019363 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.786632 seconds.
-  path: Assets/Scripts/Animacion/MagoController.controller
-  artifactKey: Guid(8dc8bbda059ad074fb2c6bb4d041bd09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/MagoController.controller using Guid(8dc8bbda059ad074fb2c6bb4d041bd09) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fdda58225393151e4e3600d8ff0f8ae') in 0.014139 seconds
-  Import took 0.019830 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 30.216855 seconds.
-  path: Assets/Scripts/Animacion/2_WALK_000.png
-  artifactKey: Guid(bc4da5e6ed3ff8d4693923640e0c50ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/2_WALK_000.png using Guid(bc4da5e6ed3ff8d4693923640e0c50ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '59b5b1a7e1dd681c82973f7fc0dc799d') in 0.213677 seconds
-  Import took 0.220874 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000263 seconds.
-  path: Assets/Scripts/Animacion/2_WALK_004.png
-  artifactKey: Guid(9e66f5e0c6f0d6448830ddd33f2a38bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/2_WALK_004.png using Guid(9e66f5e0c6f0d6448830ddd33f2a38bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8518dfab9bbbe727b74400d2e56c1a7d') in 0.029563 seconds
-  Import took 0.044647 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000262 seconds.
-  path: Assets/Scripts/Animacion/2_WALK_001.png
-  artifactKey: Guid(68ad5337bfda3224a824e683636df6d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/2_WALK_001.png using Guid(68ad5337bfda3224a824e683636df6d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bce3122baf60aeda2539ca8daab94d06') in 0.060025 seconds
-  Import took 0.065635 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000416 seconds.
-  path: Assets/Scripts/Animacion/2_WALK_002.png
-  artifactKey: Guid(b3069f126f7a4f646bad6435973281bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/2_WALK_002.png using Guid(b3069f126f7a4f646bad6435973281bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edc157a629379f1ba4be3c90455528f6') in 0.030783 seconds
-  Import took 0.036100 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000302 seconds.
-  path: Assets/Scripts/Animacion/2_WALK_003.png
-  artifactKey: Guid(93f232533a11d50449de03c0e6ef2c4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/2_WALK_003.png using Guid(93f232533a11d50449de03c0e6ef2c4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f51765b48afadf10f278c06e98e4f41') in 0.026710 seconds
-  Import took 0.031885 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 360.078846 seconds.
-  path: Assets/Scripts/Animacion/mago1.controller
-  artifactKey: Guid(0a380806c1a5573409a17bdf9cd85be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/mago1.controller using Guid(0a380806c1a5573409a17bdf9cd85be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3444857c035d66e4e3b25f8cec1b0078') in 0.025184 seconds
-  Import took 0.034001 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001940 seconds.
-  path: Assets/Scripts/Animacion/mago1.controller
-  artifactKey: Guid(0a380806c1a5573409a17bdf9cd85be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/mago1.controller using Guid(0a380806c1a5573409a17bdf9cd85be3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3444857c035d66e4e3b25f8cec1b0078') in 0.009808 seconds
-  Import took 0.015739 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 4.462990 seconds.
-  path: Assets/Scripts/Animacion/MagoRun.anim
-  artifactKey: Guid(7d5e1bc443474524b8a0d2c2b53d65f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/MagoRun.anim using Guid(7d5e1bc443474524b8a0d2c2b53d65f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0218e5e090ef3aa9ac0a07bf55e3dd3a') in 0.012875 seconds
-  Import took 0.033574 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 54.446886 seconds.
-  path: Assets/Scripts/Animacion/JohnMovement.cs
-  artifactKey: Guid(0cb4583e191e3e442a53a9fbdf070d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/JohnMovement.cs using Guid(0cb4583e191e3e442a53a9fbdf070d93) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69a2a5f7cff2a994c4643c7a9f52fcfc') in 0.066950 seconds
-  Import took 0.085074 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 19.123699 seconds.
-  path: Assets/Scripts/Animacion/2_WALK_000 1.png
-  artifactKey: Guid(cf6715d564337824f8d312c44f982e6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/2_WALK_000 1.png using Guid(cf6715d564337824f8d312c44f982e6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e6f180b0911cfc57961ed1e08ad8137') in 0.101241 seconds
-  Import took 0.198415 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.001912 seconds.
-  path: Assets/Scripts/Animacion/2_WALK_003 1.png
-  artifactKey: Guid(76235c230fed5b44db0b0505627b8481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/2_WALK_003 1.png using Guid(76235c230fed5b44db0b0505627b8481) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2df0625b51fc191a670dad5fcff3ce8c') in 0.128436 seconds
-  Import took 0.150001 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000377 seconds.
-  path: Assets/Scripts/Animacion/2_WALK_001 1.png
-  artifactKey: Guid(b9517151f8e9e994cae895d42393bff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/2_WALK_001 1.png using Guid(b9517151f8e9e994cae895d42393bff0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe1020d65a98e130652b7e9ccb60d322') in 0.112932 seconds
-  Import took 0.119208 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000273 seconds.
-  path: Assets/Scripts/Animacion/2_WALK_000 1.png
-  artifactKey: Guid(cf6715d564337824f8d312c44f982e6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/2_WALK_000 1.png using Guid(cf6715d564337824f8d312c44f982e6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e6f180b0911cfc57961ed1e08ad8137') in 0.170556 seconds
-  Import took 0.176237 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.000835 seconds.
-  path: Assets/Scripts/Animacion/2_WALK_002 1.png
-  artifactKey: Guid(40e4a83bdbbd9b2408b5571caefa701f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/2_WALK_002 1.png using Guid(40e4a83bdbbd9b2408b5571caefa701f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39a8d6eab9e74d368da6de7560bc9ae7') in 0.057081 seconds
-  Import took 0.112672 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 75.807014 seconds.
-  path: Assets/Scripts/Animacion/2_WALK_000.png
-  artifactKey: Guid(bc4da5e6ed3ff8d4693923640e0c50ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/2_WALK_000.png using Guid(bc4da5e6ed3ff8d4693923640e0c50ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e34be77d8543e6a89029b29d754c5540') in 0.048196 seconds
-  Import took 0.062162 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 6.704567 seconds.
-  path: Assets/Scripts/Animacion/2_WALK_001.png
-  artifactKey: Guid(68ad5337bfda3224a824e683636df6d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/2_WALK_001.png using Guid(68ad5337bfda3224a824e683636df6d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a67d26ba7aed4379bd7557a62f74400') in 0.048464 seconds
-  Import took 0.065807 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.005348 seconds.
-  path: Assets/Scripts/Animacion/2_WALK_002.png
-  artifactKey: Guid(b3069f126f7a4f646bad6435973281bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/2_WALK_002.png using Guid(b3069f126f7a4f646bad6435973281bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b1d4adeeb236fadfd88eada5043a427') in 0.049584 seconds
-  Import took 0.055035 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.783823 seconds.
-  path: Assets/Scripts/Animacion/2_WALK_003.png
-  artifactKey: Guid(93f232533a11d50449de03c0e6ef2c4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/2_WALK_003.png using Guid(93f232533a11d50449de03c0e6ef2c4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5587c88b74ed0c73ff69e098168b43f') in 0.065252 seconds
-  Import took 0.075930 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 7.513636 seconds.
-  path: Assets/Scripts/Animacion/2_WALK_004.png
-  artifactKey: Guid(9e66f5e0c6f0d6448830ddd33f2a38bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/2_WALK_004.png using Guid(9e66f5e0c6f0d6448830ddd33f2a38bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bdde8b1b4afa744c0dc966b760d75323') in 0.048497 seconds
-  Import took 0.054433 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 73.798971 seconds.
-  path: Assets/Scripts/Animacion/Mago.controller
-  artifactKey: Guid(6a491fa775c707543b832519f747b029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/Mago.controller using Guid(6a491fa775c707543b832519f747b029) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c5aba6bce6ff553e3d95c4dc4559e52') in 0.023171 seconds
-  Import took 0.029289 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 3.264446 seconds.
-  path: Assets/Scripts/Animacion/GameObject.controller
-  artifactKey: Guid(16556ff754d62e34ea7498950952a522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/GameObject.controller using Guid(16556ff754d62e34ea7498950952a522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8e441d8059cb650872e9fb95424155b') in 0.016355 seconds
-  Import took 0.037165 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.017837 seconds.
-  path: Assets/Scripts/Animacion/GameObject.controller
-  artifactKey: Guid(16556ff754d62e34ea7498950952a522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/GameObject.controller using Guid(16556ff754d62e34ea7498950952a522) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8e441d8059cb650872e9fb95424155b') in 0.016413 seconds
-  Import took 0.021531 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 29.627430 seconds.
-  path: Assets/Scripts/Animacion/2_WALK_000.png
-  artifactKey: Guid(bc4da5e6ed3ff8d4693923640e0c50ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/2_WALK_000.png using Guid(bc4da5e6ed3ff8d4693923640e0c50ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e84493b5daab0df4ce94a2c28d46a78') in 0.038299 seconds
-  Import took 0.045695 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 9.316171 seconds.
-  path: Assets/Scripts/Animacion/2_WALK_000.png
-  artifactKey: Guid(bc4da5e6ed3ff8d4693923640e0c50ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/2_WALK_000.png using Guid(bc4da5e6ed3ff8d4693923640e0c50ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b59cd0914e6d51b4cb15ed844f16eca') in 0.033224 seconds
-  Import took 0.039109 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 12.614313 seconds.
-  path: Assets/Scripts/Animacion/1.png
-  artifactKey: Guid(bc4da5e6ed3ff8d4693923640e0c50ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/1.png using Guid(bc4da5e6ed3ff8d4693923640e0c50ff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1152d6e47f7d6e0924b3965015f61b8f') in 0.040804 seconds
-  Import took 0.046270 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.397499 seconds.
-  path: Assets/Scripts/Animacion/2_WALK_001.png
-  artifactKey: Guid(68ad5337bfda3224a824e683636df6d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/2_WALK_001.png using Guid(68ad5337bfda3224a824e683636df6d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee7daa3a5572338f0702965b128468b2') in 0.037587 seconds
-  Import took 0.044282 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 13.115669 seconds.
-  path: Assets/Scripts/Animacion/2_WALK_001.png
-  artifactKey: Guid(68ad5337bfda3224a824e683636df6d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/2_WALK_001.png using Guid(68ad5337bfda3224a824e683636df6d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5184e7df3363561bd7e8f5b66ba432ae') in 0.037685 seconds
-  Import took 0.054314 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.628396 seconds.
-  path: Assets/Scripts/Animacion/2.png
-  artifactKey: Guid(68ad5337bfda3224a824e683636df6d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/2.png using Guid(68ad5337bfda3224a824e683636df6d4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '64bb83b223866f6ff6b8d63a5781cb70') in 0.070676 seconds
-  Import took 0.086071 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 26.198823 seconds.
-  path: Assets/Scripts/Animacion/2_WALK_002.png
-  artifactKey: Guid(b3069f126f7a4f646bad6435973281bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/2_WALK_002.png using Guid(b3069f126f7a4f646bad6435973281bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a2407fab210c8dcb55f1f8ba7c0af78b') in 0.040908 seconds
-  Import took 0.054565 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.929056 seconds.
-  path: Assets/Scripts/Animacion/2_WALK_002.png
-  artifactKey: Guid(b3069f126f7a4f646bad6435973281bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/2_WALK_002.png using Guid(b3069f126f7a4f646bad6435973281bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55804e8a7d2bb92fc50f7234640e8605') in 0.031858 seconds
-  Import took 0.042931 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.222737 seconds.
-  path: Assets/Scripts/Animacion/3.png
-  artifactKey: Guid(b3069f126f7a4f646bad6435973281bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/3.png using Guid(b3069f126f7a4f646bad6435973281bf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a75c2ac8e62505b0a92b3c94fa4e7a63') in 0.050140 seconds
-  Import took 0.055331 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 20.196978 seconds.
-  path: Assets/Scripts/Animacion/2_WALK_003.png
-  artifactKey: Guid(93f232533a11d50449de03c0e6ef2c4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/2_WALK_003.png using Guid(93f232533a11d50449de03c0e6ef2c4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e799b0cd3b96e5755c818d1e9f187109') in 0.029999 seconds
-  Import took 0.041631 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.168139 seconds.
-  path: Assets/Scripts/Animacion/4.png
-  artifactKey: Guid(93f232533a11d50449de03c0e6ef2c4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/4.png using Guid(93f232533a11d50449de03c0e6ef2c4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1a1b1aa8da2f975b53ae10e7f3322975') in 0.043776 seconds
-  Import took 0.061081 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 11.716469 seconds.
-  path: Assets/Scripts/Animacion/2_WALK_004.png
-  artifactKey: Guid(9e66f5e0c6f0d6448830ddd33f2a38bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/2_WALK_004.png using Guid(9e66f5e0c6f0d6448830ddd33f2a38bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fb625c8c42aaef18e208f3666c2ccce') in 0.037721 seconds
-  Import took 0.046456 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.035761 seconds.
-  path: Assets/Scripts/Animacion/2_WALK_004.png
-  artifactKey: Guid(9e66f5e0c6f0d6448830ddd33f2a38bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/2_WALK_004.png using Guid(9e66f5e0c6f0d6448830ddd33f2a38bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bbef37bf66450f0aaef9afea6553e13') in 0.033617 seconds
-  Import took 0.039071 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 5.445196 seconds.
-  path: Assets/Scripts/Animacion/5.png
-  artifactKey: Guid(9e66f5e0c6f0d6448830ddd33f2a38bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/5.png using Guid(9e66f5e0c6f0d6448830ddd33f2a38bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5d23d3ea42bca3fc1bd0a4fd88f51b6') in 0.060509 seconds
-  Import took 0.093590 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 403.365365 seconds.
-  path: Assets/Scripts/Animacion/4.controller
-  artifactKey: Guid(4cc2bb9d17ee77d418f1a5d85d2fb227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/4.controller using Guid(4cc2bb9d17ee77d418f1a5d85d2fb227) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b63d723f3c01c3a475588532e7b5960f') in 0.016304 seconds
-  Import took 0.025678 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 23.832810 seconds.
-  path: Assets/Scripts/Animacion/Caminar.anim
-  artifactKey: Guid(c62ea99cd124b1a4f80b0627a12bc50d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/Caminar.anim using Guid(c62ea99cd124b1a4f80b0627a12bc50d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13326fc60da607d4fd4fad1e0bb7e024') in 0.015811 seconds
-  Import took 0.030053 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.008168 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 1.00 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.813 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.76 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1829 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 101.2 MB.
-System memory in use after: 101.2 MB.
-
-Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2345.
-Total: 8.006800 ms (FindLiveObjects: 0.497500 ms CreateObjectMapping: 0.303700 ms MarkObjects: 4.179500 ms  DeleteObjects: 3.022600 ms)
-
-========================================================================
-Received Import Request.
-  Time since last request: 192.388870 seconds.
-  path: Assets/Scripts/Animacion/Caminar.anim
-  artifactKey: Guid(c62ea99cd124b1a4f80b0627a12bc50d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/Caminar.anim using Guid(c62ea99cd124b1a4f80b0627a12bc50d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa5282f5bf1745461b2e17565385b941') in 0.025814 seconds
-  Import took 0.031318 seconds .
-
-========================================================================
-Received Import Request.
-  Time since last request: 0.021201 seconds.
-  path: Assets/Scripts/Animacion/Caminar.anim
-  artifactKey: Guid(c62ea99cd124b1a4f80b0627a12bc50d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/Scripts/Animacion/Caminar.anim using Guid(c62ea99cd124b1a4f80b0627a12bc50d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa5282f5bf1745461b2e17565385b941') in 0.007469 seconds
-  Import took 0.013284 seconds .
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.009224 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.907 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.51 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1829 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 101.3 MB.
-System memory in use after: 101.2 MB.
-
-Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2349.
-Total: 3.396000 ms (FindLiveObjects: 0.335800 ms CreateObjectMapping: 0.103600 ms MarkObjects: 2.772100 ms  DeleteObjects: 0.182100 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.007955 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.81 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.697 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 0.81 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1829 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 101.3 MB.
-System memory in use after: 101.2 MB.
-
-Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2353.
-Total: 3.580000 ms (FindLiveObjects: 0.345400 ms CreateObjectMapping: 0.173300 ms MarkObjects: 2.880300 ms  DeleteObjects: 0.178200 ms)
-
-========================================================================
-Received Prepare
-Registering precompiled user dll's ...
-Registered in 0.010514 seconds.
-Begin MonoManager ReloadAssembly
-Native extension for WindowsStandalone target not found
-Refreshing native plugins compatible for Editor in 0.83 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Mono: successfully reloaded assembly
-- Completed reload, in  1.655 seconds
-Platform modules already initialized, skipping
-Refreshing native plugins compatible for Editor in 1.37 ms, found 3 plugins.
-Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 1829 Unused Serialized files (Serialized files now loaded: 0)
-System memory in use before: 101.3 MB.
-System memory in use after: 101.3 MB.
-
-Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 2357.
-Total: 3.103900 ms (FindLiveObjects: 0.260900 ms CreateObjectMapping: 0.113200 ms MarkObjects: 2.553400 ms  DeleteObjects: 0.174500 ms)
-
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
