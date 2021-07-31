@@ -1,0 +1,5 @@
+La piedra Bloquea la puerta, pero si el jugador hace click sobre la piedra desplega la ventana de Test 
+
+Si el jugador contesta las preguntas de forma correcta, automaticamente la piedra desaparece y la puerta
+
+queda desbloqueada, para que el jugador al acercarse y colisionar con ella complete el nivel 
