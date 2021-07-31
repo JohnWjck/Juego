@@ -582,3 +582,4 @@ Received Import Request.
 Start importing Assets/Scenes/Bosque.unity using Guid(66c8809eafb9c2d48b877212945660cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c7a3da6e723d4bff88feb7e8bcb7652') in 0.025321 seconds
   Import took 0.060375 seconds .
 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
