@@ -26,7 +26,6 @@ public class Mensaje : MonoBehaviour
         botonSiguiente.SetActive(false);
         botonAntes.SetActive(false);
         botonQuitar.SetActive(false);
-        botonVer.SetActive(true);
     }
 
     public void btnVer()
@@ -44,9 +43,9 @@ public class Mensaje : MonoBehaviour
 
     }
 
-    private void OnTriggerEnter2D(Collider2D other)
+    void OnTriggerEnter2D(Collider2D other)
     {
-        if (other.gameObject.CompareTag("Player"))
+        if (other.gameObject.tag == "Player")
         {
             botonVer.SetActive(true);
         }
