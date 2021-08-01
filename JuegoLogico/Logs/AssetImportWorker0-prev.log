@@ -578,6 +578,7 @@ Total: 3.894300 ms (FindLiveObjects: 0.387900 ms CreateObjectMapping: 0.184200 m
 Received Import Request.
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   Time since last request: 668.080570 seconds.
   path: ProjectSettings/TagManager.asset
   artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
@@ -4411,6 +4412,15 @@ C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFF88690000), size: 1982464 (r
 
 A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
  * C:/Users/neo_s/AppData/Local/Temp/Unity/Editor/Crashes
+>>>>>>> parent of c4e3906 (Mundo2Listo)
+=======
+  Time since last request: 600.437762 seconds.
+  path: Assets/Scenes/Bosque.unity
+  artifactKey: Guid(66c8809eafb9c2d48b877212945660cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Bosque.unity using Guid(66c8809eafb9c2d48b877212945660cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9c7a3da6e723d4bff88feb7e8bcb7652') in 0.025321 seconds
+  Import took 0.060375 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
 >>>>>>> parent of c4e3906 (Mundo2Listo)
 =======
   Time since last request: 600.437762 seconds.
