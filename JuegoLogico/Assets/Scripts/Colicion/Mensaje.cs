@@ -8,6 +8,7 @@ public class Mensaje : MonoBehaviour
     public GameObject botonQuitar;
     public GameObject botonSiguiente;
     public GameObject botonAntes;
+    public GameObject botonVer;
     private int index;
     // Start is called before the first frame update
     void Start()
@@ -16,6 +17,7 @@ public class Mensaje : MonoBehaviour
         botonSiguiente.SetActive(false);
         botonAntes.SetActive(false);
         botonQuitar.SetActive(false);
+        botonVer.SetActive(false);
     }
 
     public void btnStop()
@@ -24,6 +26,15 @@ public class Mensaje : MonoBehaviour
         botonSiguiente.SetActive(false);
         botonAntes.SetActive(false);
         botonQuitar.SetActive(false);
+    }
+
+    public void btnVer()
+    {
+        img.SetActive(true);
+        botonSiguiente.SetActive(true);
+        botonAntes.SetActive(true);
+        botonQuitar.SetActive(true);
+        botonVer.SetActive(false);
     }
 
     // Update is called once per frame
@@ -36,10 +47,15 @@ public class Mensaje : MonoBehaviour
     {
         if (other.gameObject.tag == "Player")
         {
-            img.SetActive(true);
-            botonSiguiente.SetActive(true);
-            botonAntes.SetActive(true);
-            botonQuitar.SetActive(true);
+            botonVer.SetActive(true);
+        }
+    }
+
+    private void OnTriggerExit2D(Collider2D other)
+    {
+        if (other.gameObject.CompareTag("Player"))
+        {
+            botonVer.SetActive(false);
         }
     }
 
