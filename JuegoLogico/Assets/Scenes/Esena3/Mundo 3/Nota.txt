@@ -1,0 +1,7 @@
+Dentro del menu de cada mundo esta el boton para acceder al nivel
+
+El boton que dice 1 
+
+Cambia porfa ese Sprite por el de Sprite_Puerta en el menu de cada mundo 
+
+De tal forma que al acceder al menu de un mundo no se vea ese 1, sino la puerta
