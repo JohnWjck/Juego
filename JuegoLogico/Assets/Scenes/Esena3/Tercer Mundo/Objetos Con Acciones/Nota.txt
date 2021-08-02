@@ -1,0 +1,8 @@
+La puerta de salida esta cerrada por defecto y el mago de piedra bloquea el camino, el personaje no puede atravesar la estatua 
+
+ Si el jugador hace click sobre el mago de piedra se desplega la ventana de Test 
+
+Si el jugador contesta las preguntas del test forma correcta entonces automaticamente se abre la puerta y se desaparece
+el mago de piedra
+
+Una vez que se abre la puerta el jugador debe caminar hacia la salida, y al colisionar con esta se gane el nivel
