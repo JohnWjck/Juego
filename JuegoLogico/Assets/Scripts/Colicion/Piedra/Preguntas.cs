@@ -10,6 +10,8 @@ public class Preguntas : MonoBehaviour
     public GameObject Salir;
     public GameObject Llave;
     public GameObject Piedra;
+    public GameObject Verde1;
+    public GameObject Verde2;
     // Start is called before the first frame update
     void Start()
     {
@@ -18,12 +20,16 @@ public class Preguntas : MonoBehaviour
         Btn2.SetActive(false);
         Salir.SetActive(false);
         Llave.SetActive(false);
+        Verde1.SetActive(false);
+        Verde2.SetActive(false);
 
     }
     
     public void respuesta1()
     {
         Btn2.SetActive(true);
+        Verde1.SetActive(true);
+
     }
 
     public void respuesta2()
@@ -34,6 +40,7 @@ public class Preguntas : MonoBehaviour
         Btn2.SetActive(false);
         Salir.SetActive(false);
         Llave.SetActive(false);
+        Verde2.SetActive(true);
     }
 
     public void llaveFinal()

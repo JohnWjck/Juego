@@ -363,7 +363,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Masmorra
+          m_StringArgument: MenuMundo3
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &780723433
@@ -495,7 +495,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Choza
+          m_StringArgument: MenuMundo2
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &953303128
@@ -1122,7 +1122,7 @@ MonoBehaviour:
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
           m_IntArgument: 0
           m_FloatArgument: 0
-          m_StringArgument: Bosque
+          m_StringArgument: MenuMundo1
           m_BoolArgument: 0
         m_CallState: 2
 --- !u!114 &1883784358

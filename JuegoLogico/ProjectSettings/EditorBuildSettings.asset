@@ -17,12 +17,15 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Masmorra.unity
     guid: da6805ef793891647889fd4e08f8b6b2
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
-  - enabled: 0
-    path: 
-    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/MenuMundo1.unity
+    guid: 62286a0e4d0ebe94581d9acef92d3077
+  - enabled: 1
+    path: Assets/Scenes/MenuMundo2.unity
+    guid: fe5ced9b989efdf4fb8919830dafc819
+  - enabled: 1
+    path: Assets/Scenes/MenuMundo3.unity
+    guid: 419c30921ca4a154b9b1e961c9446dd5
   - enabled: 1
     path: Assets/Scenes/Niveles.unity
     guid: 821f6dbe600f5ed419eaa1c8d498aabf
